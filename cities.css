@@ -1,7 +1,31 @@
+html {
+    /* background-image: url("https://labs.earthpeople.se/files/2018/11/world-heatmap-100km-style.png"); */
+    /* background-color: blue; */
+}
+
+.navbar-color {
+    background-color: aqua;
+}
+
+.latitude-color {
+    background-color: #e279b3;
+    /* padding: 10px; */
+}
+
+.container {
+    text-align: center;
+}
+
 .data_body {
     text-align: center;
 }
 
 .row {
     padding-top: 30px;
+    background-color: aqua;
 }
+
+.table_body {
+    background-color: #e279b3;
+}
+
