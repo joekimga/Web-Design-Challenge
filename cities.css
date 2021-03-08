@@ -3,6 +3,10 @@ html {
     /* background-color: blue; */
 }
 
+body {
+    background-color: aqua;
+}
+
 .navbar-color {
     background-color: aqua;
 }
