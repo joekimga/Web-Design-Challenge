@@ -38,7 +38,12 @@ body {
 
 .pic-bottom-text {
     padding-top: 20px;
+    background-color: #e279b3;
 }
+
+/* .pic-bottom-text {
+    background-color: #e279b3;
+} */
 
 .navbar-brand {
     font-weight: 200;
