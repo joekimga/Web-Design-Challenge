@@ -36,3 +36,10 @@ body {
     background-color: #e279b3;
 }
 
+.pic-bottom-text {
+    padding-top: 20px;
+}
+
+.navbar-brand {
+    font-weight: 200;
+}
