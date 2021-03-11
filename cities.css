@@ -9,19 +9,6 @@ body {
     /* background-image: url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg); */
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* #body-hide-whitespace {
     background-image: url(http://cdn.cnn.com/cnnnext/dam/assets181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);background-position: center; background-size:cover; background-repeat: no-repeat;
 } */
@@ -110,7 +97,7 @@ body {
   
   /* The Transformation */
   .img-hover-zoom-main:hover img {
-    transform: scale(1.25);
+    transform: scale(1.50);
     position: relative;
     z-index: 9999;
 }
