@@ -5,10 +5,29 @@ html {
 
 body {
     /* background-color: aqua; */
-    font-family: 'georgia';font-size: 22px; background-image: url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg);background-position: center; background-size:cover; background-repeat: no-repeat
-
-
+    font-family: 'georgia';font-size: 22px; background-image: url(http://cdn.cnn.com/cnnnext/dam/assets/181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);background-position: center; background-size:cover; background-repeat: no-repeat;
+    /* background-image: url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg); */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #body-hide-whitespace {
+    background-image: url(http://cdn.cnn.com/cnnnext/dam/assets181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);background-position: center; background-size:cover; background-repeat: no-repeat;
+} */
+
+
+
 
 .navbar-color {
     /* background-color: aqua; */
@@ -27,9 +46,28 @@ body {
     text-align: center;
 }
 
+.main-img-index {
+    margin-right: 20px;
+}
+
 .data_body {
     text-align: center;
 }
+
+#data-body-div {
+    background-color: rgb(11, 187, 246);
+}
+
+
+/* #data-hr {
+    height: 10px;
+} */
+
+.data-title-sub {
+    
+}
+
+
 
 .row {
     padding-top: 30px;
