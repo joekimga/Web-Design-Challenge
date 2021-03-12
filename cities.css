@@ -13,13 +13,9 @@ body {
     background-image: url(http://cdn.cnn.com/cnnnext/dam/assets181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);background-position: center; background-size:cover; background-repeat: no-repeat;
 } */
 
-
-
-
 .navbar-color {
     /* background-color: aqua; */
     background-color: rgb(11, 187, 246);
-
 }
 
 .latitude-color {
@@ -37,6 +33,11 @@ body {
     margin-right: 20px;
 }
 
+#comparison-text {
+    /* background-color: #e279b3; */
+    background-color: #ffbb00;
+}
+
 .data_body {
     text-align: center;
 }
@@ -45,7 +46,6 @@ body {
     background-color: rgb(11, 187, 246);
 }
 
-
 /* #data-hr {
     height: 10px;
 } */
@@ -53,7 +53,6 @@ body {
 .data-title-sub {
     
 }
-
 
 
 .row {
@@ -79,13 +78,9 @@ body {
     font-weight: 200;
 }
 
-
 .title-banner {
     background-color: #ffbb00;
 }
-
-
-
 
 /* Point-zoom Container */
 .img-hover-zoom-main img {
@@ -97,7 +92,20 @@ body {
   
   /* The Transformation */
   .img-hover-zoom-main:hover img {
-    transform: scale(1.50);
+    transform: scale(1.25);
+    position: relative;
+    z-index: 9999;
+}
+
+.img-hover-zoom-main-summary img {
+    transform-origin: 65% 75%;
+    transition: transform 1s, filter .5s ease-out;
+    position: relative;
+    z-index: 9999;
+}
+
+.img-hover-zoom-main-summary:hover img {
+    transform: scale(1.5);
     position: relative;
     z-index: 9999;
 }
@@ -119,8 +127,47 @@ body {
 
 
 
-@media (max-width: 700px;)
 
-    .hide-small-titles {
-        visibility: hidden;
-    }
+@media (max-width: 700px) {
+
+.latitude-color {
+    background-color: #ffbb00;
+    /* background-color: rgb(11, 187, 246); */
+    transform: rotate(360deg);
+    transition: transform 0.5s ease-in-out;
+    /* transition: transform 0.5s ease-in; */
+    
+}
+
+.title-banner {
+    background-color: rgb(11, 187, 246);
+}
+
+.pic-bottom-text {
+    background-color: #e279b3;
+}
+
+/* p {
+    background-color: #ffbb00;
+} */
+
+.container title-banner {
+    background-color: #e279b3;
+
+}
+
+#comparison-text {
+    background-color: #e279b3;
+}
+
+#data-body-div {
+    /* background-color: rgb(11, 187, 246); */
+    background-color: #e279b3;
+    /* background-color: #ffbb00; */
+
+}
+
+.table_body {
+    /* background-color: #e279b3; */
+    background-color: rgb(11, 187, 246);
+}
