@@ -16,13 +16,14 @@ body {
 .navbar-color {
     /* background-color: aqua; */
     background-color: rgb(11, 187, 246);
+    border: solid 1px black;
 }
 
 .latitude-color {
     background-color: #e279b3;
     padding-left: 10px;
     padding-right: 10px;
-    /* padding: 10px; */
+    border: solid 1px black;
 }
 
 .container {
@@ -68,6 +69,7 @@ body {
 .pic-bottom-text {
     padding-top: 20px;
     background-color: #ffbb00;
+    border: solid 1px black;
 }
 
 /* .pic-bottom-text {
@@ -78,9 +80,21 @@ body {
     font-weight: 200;
 }
 
+.title-banner-big {
+    background-color: #ffbb00;
+    border: solid 1px black;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
 .title-banner {
     background-color: #ffbb00;
 }
+
+.image-border {
+    border: solid 1px black;
+}
+
 
 /* Point-zoom Container */
 .img-hover-zoom-main img {
@@ -128,7 +142,7 @@ body {
 
 
 
-@media (max-width: 700px) {
+@media (max-width: 600px) {
 
 .latitude-color {
     background-color: #ffbb00;
