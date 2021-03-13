@@ -52,7 +52,8 @@ body {
 } */
 
 .data-title-sub {
-    
+    margin-right: auto;
+    margin-left: auto;
 }
 
 
@@ -153,8 +154,12 @@ body {
     
 }
 
+.title-banner-big {
+    background-color: #e279b3;
+}
+
 .title-banner {
-    background-color: rgb(11, 187, 246);
+    /* background-color: rgb(11, 187, 246); */
 }
 
 .pic-bottom-text {
