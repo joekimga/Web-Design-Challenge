@@ -5,6 +5,7 @@ Website url = https://joekimga.github.io/Web-Design-Challenge/
 ## Background
 
 HTML, CSS, Bootstrap, Python, and Pandas was used to build this weather dashboard.  
+
 ![Images/landingResize.png](Images/landingResize.png)
 
 
