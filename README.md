@@ -1,6 +1,6 @@
 # Web Design - Web Visualization Dashboard (Latitude)
 
-url = https://joekimga.github.io/Web-Design-Challenge/
+Website url = https://joekimga.github.io/Web-Design-Challenge/
 
 ## Background
 
