@@ -6,7 +6,7 @@ Website url = https://joekimga.github.io/Web-Design-Challenge/
 
 HTML, CSS, Bootstrap, Matplotlib, Python, and Pandas was used to build this weather dashboard.  
 
-![Images/landingResize.png](Images/landingResize.png)
+![Images/landingResize.png](web-design-challenge.png)
 
 
 
