@@ -5,7 +5,8 @@ html {
 
 body {
     /* background-color: aqua; */
-    font-family: 'georgia';font-size: 22px; background-image: url(http://cdn.cnn.com/cnnnext/dam/assets/181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);background-position: center center; background-size:cover; background-repeat: no-repeat; min-height: 100%;
+    font-family: 'georgia';font-size: 22px; background-image: url(http://cdn.cnn.com/cnnnext/dam/assets/181010131059-australia-best-beaches-cossies-beach-cocos3.jpg);
+    background-position: absolute; background-size:cover; background-repeat: no-repeat; min-height: 100%;
     /* background-image: url(https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-1200-80.jpg); */
 }
 
